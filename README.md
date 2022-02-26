@@ -5,4 +5,4 @@ Create a JSON file contain all Indonesian geo, from Region to Districts, with my
 https://github.com/nzrfrz/indonesiaRegionsDatas
 
 ## How to use
-Just install nodeJS on your system
+Just install nodeJS on your system, then pull it, go inside project directory and run creator.js
